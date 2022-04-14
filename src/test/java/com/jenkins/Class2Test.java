@@ -6,6 +6,7 @@ public class Class2Test {
 
 	@Test
 	public void demo2() {
+		System.out.println("hii");
 		System.out.println("bye junkins");
 	}
 }
